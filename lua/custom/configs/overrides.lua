@@ -12,6 +12,10 @@ M.treesitter = {
     "c",
     "markdown",
     "markdown_inline",
+    "prisma",
+    "sql",
+    "csss",
+    "python",
   },
   indent = {
     enable = true,
@@ -43,7 +47,8 @@ M.mason = {
     "prisma-language-server",
     "csharp-language-server",
     "emmet-ls",
-    "svelte"
+    "svelte",
+    "sqlls"
   },
 }
 
