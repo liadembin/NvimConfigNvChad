@@ -48,10 +48,9 @@ M.mason = {
     "csharp-language-server",
     "emmet-ls",
     "svelte",
-    "sqlls"
+    "sqlls",
   },
 }
-
 
 -- git support in nvimtree
 M.nvimtree = {
